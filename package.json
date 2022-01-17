@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "@discordjs/voice": "^0.7.5",
+    "@distube/soundcloud": "^1.1.0",
+    "@distube/spotify": "^1.1.0",
+    "axios": "^0.24.0",
+    "discord-api-types": "^0.26.1",
+    "discord-music-player": "^8.3.1",
+    "discord.js": "^13.6.0",
+    "distube": "^3.1.0",
+    "dotenv": "^12.0.3",
+    "ffmpeg": "^0.0.4",
+    "node-fetch": "^2.6.6",
+    "random-puppy": "^1.1.0",
+    "slash-commands": "^1.5.0"
+  }
+}
